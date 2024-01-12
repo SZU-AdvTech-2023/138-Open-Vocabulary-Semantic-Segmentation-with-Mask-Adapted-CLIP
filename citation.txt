@@ -1,0 +1,7 @@
+@inproceedings{REPO138,
+    author = "Liang, Feng and Wu, Bichen and Dai, Xiaoliang and Li, Kunpeng and Zhao, Yinan and Zhang, Hang and Zhang, Peizhao and Vajda, Peter and Marculescu, Diana",
+    booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    pages = "7061--7070",
+    title = "{Open-Vocabulary Semantic Segmentation with Mask-Adapted CLIP}",
+    year = "2023"
+}
